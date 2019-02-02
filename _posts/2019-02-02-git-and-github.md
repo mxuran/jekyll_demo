@@ -1,6 +1,6 @@
 ---
 layout: default
-title: git与github的连接和使用
+title: git与github的连接和使用(linux版)
 ---
 ## git与github的连接和使用(linux版)
 
